@@ -1,0 +1,28 @@
+.main {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding-top: 90px;
+  padding-bottom: 225px;
+  background-color: #b0b2ba;
+  background-image: url(f.jpg);
+  background-size: 100% 100%;
+}
+.main1 {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding-top: 90px;
+  padding-bottom: 665px;
+  background-color: #d7d9e2;
+  background-image: url(f.jpg);
+  background-size: 100% 100%;
+}
+.main2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 915px;
+  padding-left: 15px;
+  display: auto;
+  float: left;
+  text-align: center;
+}
